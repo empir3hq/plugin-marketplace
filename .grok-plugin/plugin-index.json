@@ -355,8 +355,8 @@
       }
     },
     "empir3": {
-      "sha": "a6a2018b565d8f010c4954a15433a5700423a31b",
-      "version": "0.4.9",
+      "sha": "a840b26b69d61543c08a8c5d84285a1c5514c1e6",
+      "version": "0.4.10",
       "components": {
         "mcpServers": [
           {

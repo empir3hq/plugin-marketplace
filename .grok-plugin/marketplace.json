@@ -494,7 +494,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/empir3hq/empir3-bridge.git",
-        "sha": "a6a2018b565d8f010c4954a15433a5700423a31b",
+        "sha": "a840b26b69d61543c08a8c5d84285a1c5514c1e6",
         "path": "grok-plugin"
       },
       "homepage": "https://github.com/empir3hq/empir3-bridge",
